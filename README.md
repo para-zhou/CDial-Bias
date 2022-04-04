@@ -72,11 +72,10 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
       <td>Presented in freetext. Multiple groups are splited by '/'. </td>
    </tr>
 </table>
+
 ### Statistics
+
 <table>
-   <tr>
-      <th>CDial-Bias-2.0</th>
- </tr>
   <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group #</th>
    <tr> <th> Race </th> <th>6,451 / 4,420 </th><th> 4,725 </th> <th> 2,772 </th> <th> 3,374 </th> <th>155 </th> <th>3,115 </th> <th> 2,876 </th> <th>70 </th>
    </tr>
