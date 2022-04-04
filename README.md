@@ -7,8 +7,8 @@ This task aims to measure the social bias in dialogue scenario. Due to possible 
 **Organizers:** Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen M. Meng
 
 ## Important Dates
-* **April 6, 2022** Training data would be released by then.
-* **May 5,2022** Registration deadline.
+* **April 6, 2022**: Training data release.
+* **May 5,2022**: Registration deadline.
  
 
 ## Participate
@@ -92,11 +92,13 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
 
 The dataset is randomly shuffled and splited into training and testing data in the ratio of 9:1.
 
-
+### Evaluation
+Tentative evaluation metric: F1 scores.
+TBD
  
 
 ## Notes
-The CDial-Bias Dataset is released for **research purpose only** and other usages requires further permission.
+The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
 If you want to publish experimental results with this dataset, please cite the following article:
 ```
 @misc{cdial2022zhou,
