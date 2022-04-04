@@ -45,11 +45,11 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
    </tr>
    <tr>
       <th>Q</th>
-      <td>dialogturn turn 1 </td>
+      <td>dialogturn turn 1.</td>
    </tr> 
    <tr>
       <th>A</th>
-      <td>dialogturn turn 2 </td>
+      <td>dialogturn turn 2. </td>
    </tr> 
     <tr>
       <th>Topic</th>
@@ -57,7 +57,7 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
    </tr>
    <tr>
       <th>Context Sensitivity</th>
-      <td>0 - Context-independent; 1 - Context-sensitive</td>
+      <td>0 - Context-independent; 1 - Context-sensitive.</td>
    </tr>
     <tr>
       <th>Data Type</th>
@@ -77,16 +77,17 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
 
 <table>
   <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group #</th>
-   <tr> <th> Race </th> <th>6,451 / 4,420 </th><th> 4,725 </th> <th> 2,772 </th> <th> 3,374 </th> <th>155 </th> <th>3,115 </th> <th> 2,876 </th> <th>70 </th>
+   <tr> <th> Race </th> <td>6,451 / 4,420 </td><td> 4,725 </td> <td> 2,772 </td> <td> 3,374 </td> <td>155 </td> <td>3,115 </td> <td> 2,876 </td> <td>70 </td>
    </tr>
-    <tr> <th>Gender </th> <th>5,093 / 3,291</th><th> 3,895 </th> <th> 1，441 </th> <th> 3,048 </th> <th> 78 </th> <th>2,631 </th> <th> 1,780  </th> <th>40 </th>
+    <tr> <th>Gender </th> <td>5,093 / 3,291</td><td> 3,895 </td> <td> 1，441 </td> <td> 3,048 </td> <td> 78 </td> <td>2,631 </td> <td> 1,780  </td> <td>40 </td>
    </tr>
-    <tr> <th>Region</th> <th>2,985 / 2,046 </th><th> 1,723 </th> <th> 2,217 </th> <th> 1,091 </th> <th>197  </th> <th>1,525  </th> <th>1,586  </th> <th>41</th>
+    <tr> <th>Region</th> <td>2,985 / 2,046 </td><td> 1,723 </td> <td> 2,217 </td> <td> 1,091 </td> <td>197  </td> <td>1,525  </td> <td>1,586  </td> <td>41</td>
    </tr>
-    <tr> <th> Occupation </th> <th>2,842 / 1,215 </th><th> 2,006 </th> <th> 1,231 </th> <th> 820 </th> <th>24 </th> <th>1,036 </th> <th> 991 </th> <th>20 </th>
+    <tr> <th> Occupation </th> <td>2,842 / 1,215 </td><td> 2,006 </td> <td> 1,231 </td> <td> 820 </td> <td>24 </td> <td>1,036 </td> <td> 991 </td> <td>20 </td>
    </tr>
-    <tr> <th> Overall </th> <th>17,371 / 10,972  </th><th> 12,349 </th> <th> 7,659 </th> <th> 8,333 </th> <th> 454 </th> <th> 8,307 </th> <th> 7,233 </th> <th>70 </th>
+    <tr> <th> Overall </th> <td>17,371 / 10,972  </td><td> 12,349 </td> <td> 7,659 </td> <td> 8,333 </td> <td> 454 </td> <td> 8,307 </td> <td> 7,233 </td> <td>70 </td>
    </tr>
+
 </table>
 
 The dataset is randomly shuffled and splited into training and testing data in the ratio of 9:1.
