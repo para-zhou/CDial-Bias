@@ -12,7 +12,7 @@ This task aims to measure the social bias in dialogue scenario. Due to possible 
  
 
 ## Participate
-Please fill out the Shared Task 7 Registration Form (Word File) and send it to the following registration email.
+Please fill out the Shared Task 7 Registration Form (Word File)(http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask7.RegistrationForm.doc) and send it to the following registration email.
 Registration Email: jyzhou@se.cuhk.edu.hk
 
 ## Detailed Dataset Descriptions and Baselines
