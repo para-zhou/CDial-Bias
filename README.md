@@ -79,7 +79,7 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
   <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group #</th>
    <tr> <th> Race </th> <td>6,451 / 4,420 </td><td> 4,725 </td> <td> 2,772 </td> <td> 3,374 </td> <td>155 </td> <td>3,115 </td> <td> 2,876 </td> <td>70 </td>
    </tr>
-    <tr> <th>Gender </th> <td>5,093 / 3,291</td><td> 3,895 </td> <td> 1，441 </td> <td> 3,048 </td> <td> 78 </td> <td>2,631 </td> <td> 1,780  </td> <td>40 </td>
+    <tr> <th>Gender </th> <td>5,093 / 3,291</td><td> 3,895 </td> <td> 1,441 </td> <td> 3,048 </td> <td> 78 </td> <td>2,631 </td> <td> 1,780  </td> <td>40 </td>
    </tr>
     <tr> <th>Region</th> <td>2,985 / 2,046 </td><td> 1,723 </td> <td> 2,217 </td> <td> 1,091 </td> <td>197  </td> <td>1,525  </td> <td>1,586  </td> <td>41</td>
    </tr>
