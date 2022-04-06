@@ -90,7 +90,7 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
 
 </table>
 
-The dataset is randomly shuffled and splited into training and testing data in the ratio of 9:1.
+The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
 
 ### Evaluation
 Tentative evaluation metric: F1 scores.
