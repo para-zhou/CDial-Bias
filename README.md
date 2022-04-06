@@ -8,8 +8,9 @@ This task aims to measure the social bias in dialogue scenario. Due to possible 
 
 ## Important Dates
 * **April 6, 2022**: Training data is avaliable at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
-* **May 5,2022**: Registration deadline.
- 
+* **May 5, 2022**: Registration deadline.
+* **May 10, 2022**: Release of test data.
+* **May 20, 2022**: Results submission deadline.
 
 ## Participate
 Please fill out the Shared Task 7 Registration Form ([Word File](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask7.RegistrationForm.doc)) and send it to the following registration email.
