@@ -30,7 +30,7 @@ http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-B
     </tr>
    <tr>
     <th> Output </th>
-    <td> fine-grain category (i.e. 0 - irrelevant, 1 - anti-bias, 2 - neutral, and 3 - biased) w.r.t. dialogue social bias.</td>
+    <td> A fine-grain social bias label of the second dialogue turn. (i.e. 0 - Irrelevant, 1 - Anti-bias, 2 - Neutral, and 3 - Biased).</td>
    </tr>
  </table>
  
@@ -45,11 +45,11 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
    </tr>
    <tr>
       <th>Q</th>
-      <td>dialogturn turn 1.</td>
+      <td>Dialogturn turn 1.</td>
    </tr> 
    <tr>
       <th>A</th>
-      <td>dialogturn turn 2. </td>
+      <td>Dialogturn turn 2. </td>
    </tr> 
     <tr>
       <th>Topic</th>
@@ -61,11 +61,11 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
    </tr>
     <tr>
       <th>Data Type</th>
-      <td>0 - Irrelevant; 1 - Bias-expressing; 2 - Bias Discussing. </td>
+      <td>0 - Irrelevant; 1 - Bias-expressing; 2 - Bias-discussing. </td>
    </tr>
    <tr>
    <th>Bias Attitudes</th>
-      <td> NA; 1 - Anti-Bias; 2 - Neutral; 3 - Biased. </td>
+      <td> 0 - NA (Irrelevant data); 1 - Anti-Bias; 2 - Neutral; 3 - Biased. </td>
    </tr>
    <tr>
    <th>Referrenced Groups</th>
