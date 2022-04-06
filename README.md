@@ -7,7 +7,7 @@ This task aims to measure the social bias in dialogue scenario. Due to possible 
 **Organizers:** Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen M. Meng
 
 ## Important Dates
-* **April 6, 2022**: Training data is avaliable at [link](https://mycuhk-my.sharepoint.com/:u:/g/personal/1155107974_link_cuhk_edu_hk/EYjtpHknerhPoWysCXCYr30BqmzZPooxLAMtF9B3H1348A?e=kcyEkS) .
+* **April 6, 2022**: Training data is avaliable at [link](https://drive.google.com/file/d/1UFxQCkoQAk5IVzoeJXlgliZiG5swJYVV/view?usp=sharing).
 * **May 5,2022**: Registration deadline.
  
 
