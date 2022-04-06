@@ -94,7 +94,7 @@ The dataset is randomly shuffled and splited into training and testing data in t
 
 ### Evaluation
 Tentative evaluation metric: F1 scores.
-TBD
+
  
 
 ## Notes
