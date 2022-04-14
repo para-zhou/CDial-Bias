@@ -94,7 +94,7 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
 The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
 
 ### Evaluation
-Tentative evaluation metric: F1 scores.
+Evaluation metric: Macro F1 score on the test set.
 
  
 ## Discussion Group
