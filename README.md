@@ -98,7 +98,7 @@ Evaluation metric: Macro F1 score on the test set.
 
  
 ## Discussion Group
-<img src="https://user-images.githubusercontent.com/33616384/162662515-9b593893-5d0d-4997-bd99-56a058fc32e0.png" width="280px" />
+<img src="https://github.com/para-zhou/NLPCC-Task7-BiasEval/blob/main/wechat_group.png" width="280px" />
 Feel free to join this Wechat Group for discussion.
 
 ## Notes
