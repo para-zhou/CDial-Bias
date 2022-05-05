@@ -81,6 +81,7 @@ http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-B
 </table>
 
 **Statistics**:
+The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
 
 <table>
   <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group </th>
@@ -96,7 +97,7 @@ http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-B
    </tr>
 </table>
 
-The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
+
 
 ### Evaluation
 Evaluation metric: Macro F1 score on the test set.
