@@ -1,5 +1,5 @@
 ---
-title: Test Guideline
+title: Test
 layout: template
 filename: index
 --- 
