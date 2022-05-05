@@ -36,6 +36,4 @@ filename: leaderboard
 {: .tablelines} 
 
 
-### Support or Contact
 
-Having trouble with submission? Please contact us at *zhoujyan@link.cuhk.edu.hk* or join the Wechat Group by adding *Zzzmm-Zzzmm*.
