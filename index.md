@@ -2,7 +2,7 @@
 
 
 ### Test data
-**Release of test data**: The test data is will be released at May 10, 00:00, at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
+**Release of test data**: The test data will be released at May 10, 00:00, at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
 
 **Format of test data**：The test data is a .csv file. Each entry is a two turn dialog: 
 ```
@@ -24,8 +24,8 @@ turn 1, turn 2
 
 **Format of submitted file**: Please name your file as
 ```
-teamname_leadername.csv
-e.g. BiasEval_jingyanzhou.csv
+teamid_teamname.csv
+e.g. 00_BiasEval.csv
 
 ```
 The result file should be a .csv file in the form of:
@@ -42,28 +42,28 @@ The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - 
         border: 1px solid black;
         }
 </style>
-|Rank|Organization|System Name |Team Leader|Test Time|Score|
-| --- | --- | --- | --- | --- | --- |
-| \- |Tsinghua University, Future Media Lab|SIGSNet|\- |\- |\- |
-| \- | Xiamen Institute of Technology |Turbo_cc|\- |\- |\- |
-| \- |VIVO|test data|\- |\- |\- |
-| \- |the OpenUniversity of China|dsbm_id|\- |\- |\- |
-| \- |北京语言大学 |SoCo |\-|\- |\- |
-| \- |HuaWei|HW-TSC|\- |\- |\- |
-| \- |NUDT|SWNVLD|\- |\- |\- |
-| \- |北京语言大学 |NLU&SoCo |\-|\- |\- |
-| \- |QingBoAI, USTC |\-|Maojin Xia |\- |\- |
-| \- |Ant Group |antins|\- |\- |\- |
-| \- |CICC |CTIE-AI|\- |\- |\- |
-| \- |Yunan University|YNU-HPCC|\- |\- |\- |
-| \- |Yunan University|Mark33|\- |\- |\- |
-| \- |Yunan University|han|\- |\- |\- |
-| \- |Ping An Life Insurance Company of China|PAL|\- |\- |\- |
-| \- |北京大学|Overfit|\- |\- |\- |
-| \- |TJU|Tju-LMc|\- |\- |\- |
-| \- |North Foreast Forestry University|yyds|\- |\- |\- |
-| \- |山西大学 |\-| Haonan Lin|\- |\- |
-| \- |GUFS, GUT|BERT 4EVER|\- |\- |\- |
+|Rank|TeamID|Organization|System Name |Team Leader|Test Time|Score|
+| --- | --- | --- | --- | --- | --- | --- |
+| \- | 01 |Tsinghua University, Future Media Lab|SIGSNet|\- |\- |\- |
+| \- | 02 |Xiamen Institute of Technology |Turbo_cc|\- |\- |\- |
+| \- | 03 |VIVO|test data|\- |\- |\- |
+| \- | 04 |the OpenUniversity of China|dsbm_id|\- |\- |\- |
+| \- | 05 |北京语言大学 |SoCo |\-|\- |\- |
+| \- | 06 |HuaWei|HW-TSC|\- |\- |\- |
+| \- | 07 |NUDT|SWNVLD|\- |\- |\- |
+| \- | 08 |北京语言大学 |NLU&SoCo |\-|\- |\- |
+| \- | 09 |QingBoAI, USTC |\-|Maojin Xia |\- |\- |
+| \- | 10 |Ant Group |antins|\- |\- |\- |
+| \- | 11 |CICC |CTIE-AI|\- |\- |\- |
+| \- | 12 |Yunan University|YNU-HPCC|\- |\- |\- |
+| \- | 13 |Yunan University|Mark33|\- |\- |\- |
+| \- | 14 |Yunan University|han|\- |\- |\- |
+| \- | 15 |Ping An Life Insurance Company of China|PAL|\- |\- |\- |
+| \- | 16 |北京大学|Overfit|\- |\- |\- |
+| \- | 17 |TJU|Tju-LMc|\- |\- |\- |
+| \- | 18 |North Foreast Forestry University|yyds|\- |\- |\- |
+| \- | 19 |山西大学 |\-| Haonan Lin|\- |\- |
+| \- | 20 |GUFS, GUT|BERT 4EVER|\- |\- |\- |
 
 {: .tablelines} 
 To be released.
