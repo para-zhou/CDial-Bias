@@ -66,8 +66,8 @@ The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - 
 | \- | 20 |GUFS, GUT|BERT 4EVER|\- |\- |\- |
 
 {: .tablelines} 
-To be released.
+
 
 ### Support or Contact
 
-Having trouble with submission? Please contact us at zhoujyan@link.cuhk.edu.hk or join the Wechat Group by adding Zzzmm-Zzzmm.
+Having trouble with submission? Please contact us at *zhoujyan@link.cuhk.edu.hk* or join the Wechat Group by adding *Zzzmm-Zzzmm*.
