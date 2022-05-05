@@ -1,7 +1,7 @@
 ---
 title: Test Guideline
 layout: template
-filename: index.md
+filename: index
 --- 
 
 ## NLPCC Task7 BiasEval Submission
