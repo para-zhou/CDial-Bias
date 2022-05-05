@@ -94,7 +94,6 @@ http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-B
    </tr>
     <tr> <th> Overall </th> <td>17,371 / 10,972  </td><td> 12,349 </td> <td> 7,659 </td> <td> 8,333 </td> <td> 454 </td> <td> 8,307 </td> <td> 7,233 </td> <td>- </td>
    </tr>
-
 </table>
 
 The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
@@ -106,6 +105,7 @@ Evaluation metric: Macro F1 score on the test set.
 ### Notes
 The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
 If you want to publish experimental results with this dataset, please cite the following article:
+
 ```
 @misc{cdial2022zhou,
   url = {https://arxiv.org/abs/2202.08011},
