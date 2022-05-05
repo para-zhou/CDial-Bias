@@ -4,7 +4,6 @@ layout: template
 filename: index
 --- 
 
-## NLPCC Task7 BiasEval Submission
 
 
 ### Test data
