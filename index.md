@@ -52,7 +52,7 @@ The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - 
 | \- | 06 |HuaWei|HW-TSC|\- |\- |\- |
 | \- | 07 |NUDT|SWNVLD|\- |\- |\- |
 | \- | 08 |北京语言大学 |NLU&SoCo |\-|\- |\- |
-| \- | 09 |QingBoAI, USTC |\-|Maojin Xia |\- |\- |
+| \- | 09 |QingBoAI, USTC |newbee| |\- |\- |
 | \- | 10 |Ant Group |antins|\- |\- |\- |
 | \- | 11 |CICC |CTIE-AI|\- |\- |\- |
 | \- | 12 |Yunan University|YNU-HPCC|\- |\- |\- |
@@ -64,7 +64,8 @@ The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - 
 | \- | 18 |North Foreast Forestry University|yyds|\- |\- |\- |
 | \- | 19 |山西大学 |\-| Haonan Lin|\- |\- |
 | \- | 20 |GUFS, GUT|BERT 4EVER|\- |\- |\- |
-
+| \- | 21 |Tsinghua University|Chase1|\- |\- |\- |
+| \- | 22 |Hunan University, Chinese Academy Sciences|LingJing|\- |\- |\- |
 {: .tablelines} 
 
 
