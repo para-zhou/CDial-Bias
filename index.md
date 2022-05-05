@@ -42,9 +42,9 @@ The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - 
         }
 </style>
 |Rank|Organization|System Name|Test Time|Score|
-|---|---|---|---|---|
-{: .tablelines}
-
+| --- | --- | --- | --- | --- |
+| \- |\- |\- |\- |\- |
+{: .tablelines} 
 To be released.
 
 ### Support or Contact
