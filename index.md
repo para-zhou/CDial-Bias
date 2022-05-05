@@ -12,12 +12,14 @@ turn 1, turn 2
 ```
 
 ### Submission guideline
-**Time**: Participants can submit your result 3 times before the final submission, and we will update the [leaderboard](#Leaderboard) coordinately. The three submission should be submitted by:
+**Time**: Participants can submit your result 3 times before the final submission. 
+We will evaluate the **latest** submission by following  timeslots and , and update the [leaderboard](#Leaderboard) coordinately.
+
 1. May 11, 23:59
 2. May 14, 23:59
 3. May 17, 23:59
+4. **Final submision**: May 20, 23:59
 
-The final submission should be finished by **May 20, 23:59**.
 
 **Submission folder**: Please submit your result to [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
 
