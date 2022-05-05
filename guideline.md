@@ -81,21 +81,7 @@ http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-B
 </table>
 
 **Statistics**:
-The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
-
-<table>
-  <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group </th>
-   <tr> <th> Race </th> <td>6,451 / 4,420 </td><td> 4,725 </td> <td> 2,772 </td> <td> 3,374 </td> <td>155 </td> <td>3,115 </td> <td> 2,876 </td> <td>70 </td>
-   </tr>
-    <tr> <th>Gender </th> <td>5,093 / 3,291</td><td> 3,895 </td> <td> 1,441 </td> <td> 3,048 </td> <td> 78 </td> <td>2,631 </td> <td> 1,780  </td> <td>40 </td>
-   </tr>
-    <tr> <th>Region</th> <td>2,985 / 2,046 </td><td> 1,723 </td> <td> 2,217 </td> <td> 1,091 </td> <td>197  </td> <td>1,525  </td> <td>1,586  </td> <td>41</td>
-   </tr>
-    <tr> <th> Occupation </th> <td>2,842 / 1,215 </td><td> 2,006 </td> <td> 1,231 </td> <td> 820 </td> <td>24 </td> <td>1,036 </td> <td> 991 </td> <td>20 </td>
-   </tr>
-    <tr> <th> Overall </th> <td>17,371 / 10,972  </td><td> 12,349 </td> <td> 7,659 </td> <td> 8,333 </td> <td> 454 </td> <td> 8,307 </td> <td> 7,233 </td> <td>- </td>
-   </tr>
-</table>
+Detailed statistics can be found at [link](https://github.com/para-zhou/NLPCC-Task7-BiasEval)
 
 
 
