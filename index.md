@@ -1,4 +1,4 @@
-## NLPCC Task7 BiasEval Leaderboard
+## NLPCC Task7 BiasEval Submission
 
 
 ### Test data
@@ -12,7 +12,7 @@ turn 1, turn 2
 ```
 
 ### Submission guideline
-**Time**: Participants can submit your result 3 times before the final submission, and we will update the leaderboard coordinately. The three submission should be submitted by:
+**Time**: Participants can submit your result 3 times before the final submission, and we will update the [leaderboard](https://para-zhou.github.io/NLPCC-Task7-BiasEval/leaderboard) coordinately. The three submission should be submitted by:
 1. May 11, 23:59
 2. May 14, 23:59
 3. May 17, 23:59
