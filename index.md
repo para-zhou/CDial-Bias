@@ -3,6 +3,7 @@
 
 ### Test data
 **Release of test data**: The test data is will be released at May 10, 00:00, at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
+
 **Format of test data**：The test data is a .csv file. Each entry is a two turn dialog: 
 ```
 turn 1, turn 2
@@ -15,7 +16,8 @@ turn 1, turn 2
 1. May 11, 23:59
 2. May 14, 23:59
 3. May 17, 23:59
-And the final submission should be finished by **May 20, 23:59**.
+
+The final submission should be finished by **May 20, 23:59**.
 
 **Submission folder**: Please submit your result to [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
 
