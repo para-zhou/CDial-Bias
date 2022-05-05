@@ -1,4 +1,10 @@
-##  NLPCC 2022 Shared Task 7 - Fine-Grain Dialogue Social Bias Measurement
+---
+title: Guideline
+layout: template
+filename: guideline
+--- 
+
+
 
 This repository contains detailed guidelines for NLPCC 2021 Shared Task 7 - Fine-Grain Dialogue Social Bias Measurement.
 
