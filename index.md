@@ -12,8 +12,7 @@ turn 1, turn 2
 ```
 
 ### Submission guideline
-**Time**: Participants can submit your result 3 times before the final submission. 
-We will evaluate the **latest** submission by following  timeslots and , and update the [leaderboard](#Leaderboard) coordinately.
+**Time**: We will only evaluate the **latest** submission by following timeslots and update the [leaderboard](#Leaderboard) coordinately.
 
 1. May 11, 23:59
 2. May 14, 23:59
@@ -43,9 +42,29 @@ The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - 
         border: 1px solid black;
         }
 </style>
-|Rank|Organization|System Name|Test Time|Score|
-| --- | --- | --- | --- | --- |
-| \- |\- |\- |\- |\- |
+|Rank|Organization|System Name |Team Leader|Test Time|Score|
+| --- | --- | --- | --- | --- | --- |
+| \- |Tsinghua University, Future Media Lab|SIGSNet|\- |\- |\- |
+| \- | Xiamen Institute of Technology |Turbo_cc|\- |\- |\- |
+| \- |VIVO|test data|\- |\- |\- |
+| \- |the OpenUniversity of China|dsbm_id|\- |\- |\- |
+| \- |北京语言大学 |SoCo |\-|\- |\- |
+| \- |HuaWei|HW-TSC|\- |\- |\- |
+| \- |NUDT|SWNVLD|\- |\- |\- |
+| \- |北京语言大学 |NLU&SoCo |\-|\- |\- |
+| \- |QingBoAI, USTC |\-|Maojin Xia |\- |\- |
+| \- |Ant Group |antins|\- |\- |\- |
+| \- |CICC |CTIE-AI|\- |\- |\- |
+| \- |Yunan University|YNU-HPCC|\- |\- |\- |
+| \- |Yunan University|Mark33|\- |\- |\- |
+| \- |Yunan University|han|\- |\- |\- |
+| \- |Ping An Life Insurance Company of China|PAL|\- |\- |\- |
+| \- |北京大学|Overfit|\- |\- |\- |
+| \- |TJU|Tju-LMc|\- |\- |\- |
+| \- |North Foreast Forestry University|yyds|\- |\- |\- |
+| \- |山西大学 |\-| Haonan Lin|\- |\- |
+| \- |GUFS, GUT|BERT 4EVER|\- |\- |\- |
+
 {: .tablelines} 
 To be released.
 
