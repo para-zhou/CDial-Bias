@@ -6,7 +6,7 @@ filename: guideline
 
 
 
-This repository contains detailed guidelines for NLPCC 2021 Shared Task 7 - Fine-Grain Dialogue Social Bias Measurement.
+This page contains detailed guidelines for NLPCC 2021 Shared Task 7 - Fine-Grain Dialogue Social Bias Measurement.
 
 This task aims to measure the social bias in dialogue scenario. Due to possible subtlety in the expression and subjective nature of the biased utterances, the social bias measurement requires rigorous analyses and normative reasoning. Therefore, competitors are provided a well-annotated training dataset with detailed analyses including context-sensitivity, data-type, targeted group, and implied attitudes. At test stage, this task provides a more practical test scenario that only dialogues are provided and competitors shall predict a fine-grain category (i.e. irrelevant, anti-bias, neutral, and biased) w.r.t. dialogue social bias.
 
@@ -83,7 +83,7 @@ http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-B
 **Statistics**:
 
 <table>
-  <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group #</th>
+  <tr> <th>Topic </th><th>Context-Idependent/Sensitive</th><th> Irrelevant </th> <th>Bias-expressing</th><th>Bias-discussing</th><th>Anti</th><th>Neutral</th><th>Biased</th><th>Group </th>
    <tr> <th> Race </th> <td>6,451 / 4,420 </td><td> 4,725 </td> <td> 2,772 </td> <td> 3,374 </td> <td>155 </td> <td>3,115 </td> <td> 2,876 </td> <td>70 </td>
    </tr>
     <tr> <th>Gender </th> <td>5,093 / 3,291</td><td> 3,895 </td> <td> 1,441 </td> <td> 3,048 </td> <td> 78 </td> <td>2,631 </td> <td> 1,780  </td> <td>40 </td>
@@ -102,10 +102,6 @@ The dataset is randomly shuffled and splited into training, validation, and test
 ### Evaluation
 Evaluation metric: Macro F1 score on the test set.
 
- 
-### Discussion Group
-<img src="https://github.com/para-zhou/NLPCC-Task7-BiasEval/blob/main/wechat_group.png" width="280px" />
-Feel free to join this Wechat Group for discussion.
 
 ### Notes
 The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
