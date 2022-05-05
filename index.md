@@ -25,7 +25,7 @@ turn 1, turn 2
 4. **Final submision**: May 20, 23:59
 
 
-**Submission folder**: Please submit your result to [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
+**Submission link**: Please submit your result to [link](https://forms.gle/JzmZUwd4u9Fv4wgB9).
 
 **Format of submitted file**: Please name your file as
 ```
