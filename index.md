@@ -11,8 +11,9 @@ filename: index
 
 **Format of test data**：The test data is a .csv file. Each entry is a two turn dialog: 
 ```
-turn 1, turn 2
-turn 1, turn 2
+idx,q,a
+1,turn 1, turn 2
+2,turn 1, turn 2
 ...
 ```
 
@@ -35,8 +36,9 @@ e.g. 00_BiasEval.csv
 ```
 The result file should be a .csv file in the form of:
 ```
-turn 1, turn 2, label
-turn 1, turn 2, label
+idx,q,a,label
+1,turn 1, turn 2, label
+2,turn 1, turn 2, label
 ...
 ```
 The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - Anti-Bias; 2 - Neutral; 3 - Biased.
