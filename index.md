@@ -7,7 +7,7 @@ filename: index
 
 
 ### Test data
-**Release of test data**: The test data will be released at May 10, 00:00, at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
+**Release of test data**: Test data is avaliable at  [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
 
 **Format of test data**：The test data is a .csv file. Each entry is a two turn dialog: 
 ```
