@@ -15,7 +15,7 @@ This task aims to measure the social bias in dialogue scenario. Due to possible 
 ### Important Dates
 * **April 6, 2022**: Training data is avaliable at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
 * **May 5, 2022**: Registration deadline. The registration information is recorded at [link](https://para-zhou.github.io/NLPCC-Task7-BiasEval), please check if your information is recoreded correctly and contact us if any problems occur.
-* **May 10, 2022**: Release of test data.
+* **May 10, 2022**: Test data is avaliable at  [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
 * **May 20, 2022**: Results submission deadline.
 
 ### Participate
