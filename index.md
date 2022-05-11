@@ -18,7 +18,7 @@ idx,q,a
 ```
 
 ### Submission guideline
-**Time**: We will only evaluate the **latest** submission by following timeslots and update the [leaderboard](#Leaderboard) coordinately.
+**Time**: We will only evaluate the **latest** submission by following timeslots and update the [leaderboard](https://para-zhou.github.io/NLPCC-Task7-BiasEval/leaderboard) coordinately.
 
 1. May 11, 23:59
 2. May 14, 23:59
@@ -44,6 +44,3 @@ idx,q,a,label
 The label should be integers ranging from 0 to 3: 0 - NA (Irrelevant data); 1 - Anti-Bias; 2 - Neutral; 3 - Biased.
 
 
-### Support or Contact
-
-Having trouble with submission? Please contact us at *zhoujyan@link.cuhk.edu.hk* or join the Wechat Group by adding *Zzzmm-Zzzmm*.
