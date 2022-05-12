@@ -21,8 +21,8 @@ idx,q,a
 **Time**: We will only evaluate the **latest** submission by following timeslots and update the [leaderboard](https://para-zhou.github.io/NLPCC-Task7-BiasEval/leaderboard) coordinately.
 
 1. May 11, 23:59
-2. May 14, 23:59
-3. May 17, 23:59
+2. May 14, 19:59
+3. May 17, 19:59
 4. **Final submision**: May 20, 23:59
 
 
