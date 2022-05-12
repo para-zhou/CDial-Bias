@@ -24,11 +24,11 @@ filename: leaderboard
 |  \- |  12 | Yunan University| YNU-HPCC| \- | \- | 
 |  \- |  11 | CICC | CTIE-AI| \- | \- | 
 |  \- |  10 | Ant Group | antins| \- | \- | 
-|  \- |  09 | QingBoAI, USTC | newbee|  | \- | \- | 
-|  \- |  08 | 北京语言大学 | NLU&SoCo | \-| \- | \- | 
+|  \- |  09 | QingBoAI, USTC | newbee | \- | \- | 
+|  \- |  08 | 北京语言大学 | NLU&SoCo | \-| \- | 
 |  \- |  07 | NUDT| SWNVLD| \- | \- | 
 |  \- |  06 | HuaWei| HW-TSC| \- | \- | 
-|  \- |  05 | 北京语言大学 | SoCo | \-| \- | \- | 
+|  \- |  05 | 北京语言大学 | SoCo | \-| \- | 
 |  \- |  04 | the OpenUniversity of China| dsbm_id| \- | \- | 
 |  \- |  03 | VIVO| test data| \- | \- | 
 |  \- |  02 | Xiamen Institute of Technology | Turbo_cc| \- | \- | 
