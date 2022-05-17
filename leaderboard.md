@@ -20,18 +20,15 @@ filename: leaderboard
 | 7|  14 | Yunan University| han| Sat May 14 21:09:45| 0.5142| 
 | 8|  21 | Tsinghua University| Chase1| Tue May 17 21:49:07| 0.5003| 
 | 9|  09 | QingBoAI, USTC | newbee | Tue May 17 21:49:00| 0.4499|
-|  \- |  21 | Tsinghua University| Chase1| \- | \- | 
 |  \- |  19 | 山西大学 | （Leader) Haonan Lin| \- | \- | 
 |  \- |  18 | North Foreast Forestry University| yyds| \- | \- | 
 |  \- |  17 | TJU| Tju-LMc| \- | \- | 
 |  \- |  12 | Yunan University| YNU-HPCC| \- | \- | 
 |  \- |  11 | CICC | CTIE-AI| \- | \- | 
 |  \- |  10 | Ant Group | antins| \- | \- | 
-|  \- |  09 | QingBoAI, USTC | newbee | \- | \- | 
 |  \- |  08 | 北京语言大学 | NLU&SoCo | \-| \- | 
 |  \- |  07 | NUDT| SWNVLD| \- | \- | 
 |  \- |  06 | HuaWei| HW-TSC| \- | \- | 
-|  \- |  05 | 北京语言大学 | SoCo | \-| \- | 
 |  \- |  04 | the OpenUniversity of China| dsbm_id| \- | \- | 
 |  \- |  03 | VIVO| test data| \- | \- | 
 |  \- |  02 | Xiamen Institute of Technology | Turbo_cc| \- | \- | 
