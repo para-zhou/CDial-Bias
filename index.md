@@ -23,7 +23,8 @@ idx,q,a
 1. May 11, 23:59
 2. May 14, 19:59
 3. May 17, 19:59
-4. **Final submision**: May 20, 23:59
+4. May 18, 19:59
+5. **Final submision**: May 20, 23:59
 
 
 **Submission link**: Please submit your result to [link](https://forms.gle/JzmZUwd4u9Fv4wgB9).
