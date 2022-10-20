@@ -1,39 +1,14 @@
-#  NLPCC 2022 Shared Task 7 - Fine-Grain Dialogue Social Bias Measurement
+#  Towards Identifying Social Bias in Dialogue Systems
 
-This repository contains detailed guidelines for NLPCC 2021 Shared Task 7 - Fine-Grain Dialogue Social Bias Measurement.
+This repository contains detailed detailed description of the CDial-Bias Dataset.
 
 This task aims to measure the social bias in dialogue scenario. Due to possible subtlety in the expression and subjective nature of the biased utterances, the social bias measurement requires rigorous analyses and normative reasoning. Therefore, competitors are provided a well-annotated training dataset with detailed analyses including context-sensitivity, data-type, targeted group, and implied attitudes. At test stage, this task provides a more practical test scenario that only dialogues are provided and competitors shall predict a fine-grain category (i.e. irrelevant, anti-bias, neutral, and biased) w.r.t. dialogue social bias.
 
-**Organizers:** Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen M. Meng
-
-## Important Dates
-* **April 6, 2022**: Training data is avaliable at [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing).
-* **May 5, 2022**: Registration deadline. The registration information is recorded at [link](https://para-zhou.github.io/NLPCC-Task7-BiasEval), please check if your information is recoreded correctly and contact us if any problems occur.
-* **May 10, 2022**: Test data is avaliable at  [link](https://drive.google.com/drive/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk?usp=sharing). Please check  [link](https://para-zhou.github.io/NLPCC-Task7-BiasEval) for test details.
-* **May 20, 2022**: Results submission deadline.
-
-## Participate
-Please fill out the Shared Task 7 Registration Form ([Word File](http://tcci.ccf.org.cn/conference/2022/dldoc/NLPCC2022.SharedTask7.RegistrationForm.doc)) and send it to the following registration email.
-Registration Email: jyzhou@se.cuhk.edu.hk
+**Authors:** Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen M. Meng
 
 ## Detailed Dataset Descriptions and Baselines
-http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-Bias Dataset 2.0 for this shared task. The statistics and baseline performances may differ to some extend.)
+http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-Bias Dataset 2.0. The statistics and baseline performances may differ to some extend.)
 
-## Task
-<table>
-   <tr>
-      <th>Goal</th>
-      <td>measure the social bias in dialogue scenario. </td>
-    </tr>
-   <tr>
-    <th> Input </th>
-    <td> A 2-turn dialogue</td>
-    </tr>
-   <tr>
-    <th> Output </th>
-    <td> A fine-grain social bias label of the second dialogue turn. (i.e. 0 - Irrelevant, 1 - Anti-bias, 2 - Neutral, and 3 - Biased).</td>
-   </tr>
- </table>
  
 ## Dataset
 
@@ -93,14 +68,7 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
 
 The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
 
-### Evaluation
-Evaluation metric: Macro F1 score on the test set.
-
  
-## Discussion Group
-<img src="https://github.com/para-zhou/NLPCC-Task7-BiasEval/blob/main/wechat_group.png" width="280px" />
-Feel free to join this Wechat Group for discussion.
-
 ## Notes
 The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
 If you want to publish experimental results with this dataset, please cite the following article:
@@ -111,5 +79,16 @@ If you want to publish experimental results with this dataset, please cite the f
   title = {Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks},
   publisher = {arXiv},
   year = {2022}
+}
+```
+Also, we held NLPCC 2022 Shared Task 7 based on the proposed resources, please see the task overview here:
+```
+@inproceedings{zhou2022overview,
+  title={Overview of NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement},
+  author={Zhou, Jingyan and Mi, Fei and Meng, Helen and Deng, Jiawen},
+  booktitle={CCF International Conference on Natural Language Processing and Chinese Computing},
+  pages={342--350},
+  year={2022},
+  organization={Springer}
 }
 ```
