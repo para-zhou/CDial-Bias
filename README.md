@@ -1,6 +1,6 @@
 #  Towards Identifying Social Bias in Dialogue Systems
 
-This repository contains detailed detailed description of the CDial-Bias Dataset.
+This repository contains detailed description of the CDial-Bias Dataset.
 
 This task aims to measure the social bias in dialogue scenario. Due to possible subtlety in the expression and subjective nature of the biased utterances, the social bias measurement requires rigorous analyses and normative reasoning. Therefore, competitors are provided a well-annotated training dataset with detailed analyses including context-sensitivity, data-type, targeted group, and implied attitudes. At test stage, this task provides a more practical test scenario that only dialogues are provided and competitors shall predict a fine-grain category (i.e. irrelevant, anti-bias, neutral, and biased) w.r.t. dialogue social bias.
 
