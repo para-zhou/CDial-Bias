@@ -70,6 +70,7 @@ The dataset is randomly shuffled and splited into training, validation, and test
 
  
 ## Notes
+Before you download the dataset, please be aware that:
 The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
 If you want to publish experimental results with this dataset, please cite the following article:
 ```
@@ -81,7 +82,8 @@ If you want to publish experimental results with this dataset, please cite the f
   year = {2022}
 }
 ```
-Also, we held NLPCC 2022 Shared Task 7 based on the proposed resources, please see the task overview here:
+Also, we held NLPCC 2022 Shared Task 7 based on the proposed resources.
+We got many talented participants contributing to the investigation of this problem, for more information, please check the [webpage](https://para-zhou.github.io/CDial-Bias/) and the task overview here:
 ```
 @inproceedings{zhou2022overview,
   title={Overview of NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement},
@@ -92,3 +94,5 @@ Also, we held NLPCC 2022 Shared Task 7 based on the proposed resources, please s
   organization={Springer}
 }
 ```
+
+####  [Download](https://drive.google.com/drive/u/1/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk) data
