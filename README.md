@@ -27,7 +27,7 @@ Please ensure the usage contributes to improving the safety and fairness of AI t
 ## Dataset
 
 ### Format
-The Cdial-Bias Dataset 2.0 has following entries.
+The Cdial-Bias Dataset 2.0 has the following entries.
 <table>
    <tr>
       <th></th>
@@ -35,15 +35,15 @@ The Cdial-Bias Dataset 2.0 has following entries.
    </tr>
    <tr>
       <th>Q</th>
-      <td>Dialogturn turn 1.</td>
+      <td>Dialogue turn 1.</td>
    </tr> 
    <tr>
       <th>A</th>
-      <td>Dialogturn turn 2. </td>
+      <td>Dialogue turn 2. </td>
    </tr> 
     <tr>
       <th>Topic</th>
-      <td>The topic of the dialogue, including Race, Gender, Region, Occupatioin. </td>
+      <td>The topic of the dialogue, including Race, Gender, Region, and Occupation. </td>
    </tr>
    <tr>
       <th>Context Sensitivity</th>
