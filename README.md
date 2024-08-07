@@ -1,19 +1,33 @@
 #  Towards Identifying Social Bias in Dialogue Systems
 
-This repository contains detailed description of the CDial-Bias Dataset.
+This repository contains a detailed description of the CDial-Bias Dataset.
 
-This task aims to measure the social bias in dialogue scenario. Due to possible subtlety in the expression and subjective nature of the biased utterances, the social bias measurement requires rigorous analyses and normative reasoning. Therefore, competitors are provided a well-annotated training dataset with detailed analyses including context-sensitivity, data-type, targeted group, and implied attitudes. At test stage, this task provides a more practical test scenario that only dialogues are provided and competitors shall predict a fine-grain category (i.e. irrelevant, anti-bias, neutral, and biased) w.r.t. dialogue social bias.
+This task aims to measure the social bias in dialogue scenarios. Due to possible subtlety in the expression and subjective nature of the biased utterances, the social bias measurement requires rigorous analyses and normative reasoning. Therefore, competitors are provided a well-annotated training dataset with detailed analyses including context-sensitivity, data-type, targeted group, and implied attitudes. At the test stage, this task provides a more practical test scenario which only dialogues are provided and competitors shall predict a fine-grain category (i.e. irrelevant, anti-bias, neutral, and biased) w.r.t. dialogue social bias.
 
-**Authors:** Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen M. Meng
+**Authors:** 
 
-## Detailed Dataset Descriptions and Baselines
-http://arxiv.org/abs/2202.08011 (We refine the annotations and construct CDial-Bias Dataset 2.0. The statistics and baseline performances may differ to some extend.)
+Jingyan Zhou, Jiawen Deng, Fei Mi, Yitong Li, Yasheng Wang, Minlie Huang, Xin Jiang, Qun Liu, Helen M. Meng
 
- 
+**Paper**: 
+
+https://aclanthology.org/2022.findings-emnlp.262/
+
+**Dataset**: 
+
+⚠️ Before downloading the dataset, please be aware that:
+The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
+Please ensure the usage contributes to improving the safety and fairness of AI technologies. No malicious usage is allowed.
+
+🤗 [Dataset on Hugginface](https://huggingface.co/datasets/para-zhou/CDial-Bias/tree/main)
+
+ **Website**:
+
+🥇 Please check [webpage](https://para-zhou.github.io/CDial-Bias/)  for details on NLPCC 2022 Shared Task 7: Fine-Grained Dialogue Social Bias Measurement, which provides the detailed information and leaderboard on this dataset.
+
 ## Dataset
 
 ### Format
-The Cdial-Bias Dataset 2.0 has follwoing entries.
+The Cdial-Bias Dataset 2.0 has following entries.
 <table>
    <tr>
       <th></th>
@@ -45,7 +59,7 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
    </tr>
    <tr>
    <th>Referrenced Groups</th>
-      <td>Presented in freetext. Multiple groups are splited by '/'. </td>
+      <td>Presented in free text. Multiple groups are split by '/'. </td>
    </tr>
 </table>
 
@@ -66,20 +80,23 @@ The Cdial-Bias Dataset 2.0 has follwoing entries.
 
 </table>
 
-The dataset is randomly shuffled and splited into training, validation, and testing data in the ratio of 8:1:1.
+The dataset is randomly shuffled and split into training, validation, and testing data in the ratio of 8:1:1.
 
  
 ## Notes
-Before you download the dataset, please be aware that:
-The CDial-Bias Dataset is released for **research purpose only** and other usages require further permission.
+
 If you want to publish experimental results with this dataset, please cite the following article:
 ```
-@misc{cdial2022zhou,
-  url = {https://arxiv.org/abs/2202.08011},
-  author = {Zhou, Jingyan and Deng, Jiawen and Mi, Fei and Li, Yitong and Wang, Yasheng and Huang, Minlie and Jiang, Xin and Liu, Qun and Meng, Helen},
-  title = {Towards Identifying Social Bias in Dialog Systems: Frame, Datasets, and Benchmarks},
-  publisher = {arXiv},
-  year = {2022}
+@inproceedings{zhou-etal-2022-towards-identifying,
+    title = "Towards Identifying Social Bias in Dialog Systems: Framework, Dataset, and Benchmark",
+    author = "Zhou, Jingyan  and Deng, Jiawen  and Mi, Fei  and Li, Yitong  and Wang, Yasheng  and Huang, Minlie  and Jiang, Xin  and  Liu, Qun  and Meng, Helen",
+    booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2022",
+    month = dec,
+    year = "2022",
+    address = "Abu Dhabi, United Arab Emirates",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.findings-emnlp.262",
+    doi = "10.18653/v1/2022.findings-emnlp.262"
 }
 ```
 Also, we held NLPCC 2022 Shared Task 7 based on the proposed resources.
@@ -95,4 +112,3 @@ We got many talented participants contributing to the investigation of this prob
 }
 ```
 
-####  [Download](https://drive.google.com/drive/u/1/folders/1_bi9yw3LccAj4wy9naWmCSNMGtCU3Fvk) data
